@@ -4,6 +4,8 @@
 
 Mini Project โปรแกรมคำนวณ BMI ด้วย React + TypeScript เป็นโปรเจ็คใน [คอร์สเรียน Intro to React](https://devahoy.com/intro-to-react-part-1/)
 
+![ss](/bmi-calculator.png)
+
 ### เนื้อหา
 
 - [Text Tutorial แบบบทความ](https://devahoy.com/intro-to-react-bmi-calculator/)
